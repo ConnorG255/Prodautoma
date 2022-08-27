@@ -16,6 +16,7 @@ module.exports = {
         palespringbud: '#E2FAB5',
         begonia: '#FE737C',
         LightSalmon: '#FA947C',
+        cream: '#FFFCD1',
       }
     },
     

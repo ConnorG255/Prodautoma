@@ -15,10 +15,10 @@ const Home: NextPage = () => {
 
     <div className='space-y-20 flex w-full h-full'>
    
-      <div className="fixed flex mt-0 ml-0 h-16 w-full text-right bg-farm justify-end">
+      <div className="fixed flex mt-0 ml-0 h-16 w-full text-right bg-slate-800 justify-end">
 
         <h1 className="text-3xl  text-rose-500 text-opacity-70 p-3">Prodautoma</h1>
-        <div className='mr-10 mt-2 bg-green-500 w-20 h-12 p-2 rounded-lg flex justify-center '>
+        <div className='mr-10 mt-2 bg-indigo-700 w-20 h-12 p-2 rounded-lg flex justify-center '>
           <Image src={`/icon_mine.png`} alt="asdf" width={35} height={10} /></div>
         
         </div>

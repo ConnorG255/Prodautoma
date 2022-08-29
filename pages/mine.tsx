@@ -27,7 +27,7 @@ const Home: NextPage = () => {
 
 
         <div className="justify-center items-center w-full flex h-10 flex-col"> 
-          
+            <h1 className="text-6xl text-black">tk</h1>
             </div>
       </div>
 

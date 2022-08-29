@@ -31,7 +31,7 @@ const Home: NextPage = () => {
 
               </Link>
               <div className="bg-slate-900 bg-opacity-20 max-w-20 rounded-2xl"><Image src={`/icon_farm.png`} alt="asdf" width={300} height={300}/></div>
-              
+              <h1 className="text-3xl text-indigo-900 "> Level: 0</h1>
               </div> 
 
               <div className="mt-24 h-2/3 w-1/3 bg-opacity-20 rounded-md shadow-lg text-center p-10 bg-red-100">
@@ -42,9 +42,8 @@ const Home: NextPage = () => {
 
               </Link>
               <div className="bg-slate-900 rounded-2xl bg-opacity-20 max-w-20"><Image src={`/icon_mine.png`} alt="asdf" width={300} height={300}/></div>
-              
+                <h1 className="text-3xl">tk</h1>
               </div> 
-
 
             </div>
       </div>
